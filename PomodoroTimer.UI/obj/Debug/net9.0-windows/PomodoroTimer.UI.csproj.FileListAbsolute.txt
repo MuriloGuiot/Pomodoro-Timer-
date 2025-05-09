@@ -1,0 +1,14 @@
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\bin\Debug\net9.0-windows\PomodoroTimer.UI.exe
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\bin\Debug\net9.0-windows\PomodoroTimer.UI.deps.json
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\bin\Debug\net9.0-windows\PomodoroTimer.UI.runtimeconfig.json
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\bin\Debug\net9.0-windows\PomodoroTimer.UI.dll
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\bin\Debug\net9.0-windows\PomodoroTimer.UI.pdb
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\PomodoroTimer.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\PomodoroTimer.UI.AssemblyInfoInputs.cache
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\PomodoroTimer.UI.AssemblyInfo.cs
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\PomodoroTimer.UI.csproj.CoreCompileInputs.cache
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\PomodoroTimer.UI.dll
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\refint\PomodoroTimer.UI.dll
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\PomodoroTimer.UI.pdb
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\PomodoroTimer.UI.genruntimeconfig.cache
+C:\Users\muckz\Desktop\Coding\Códigos\PomodoroTimer\PomodoroTimer.UI\obj\Debug\net9.0-windows\ref\PomodoroTimer.UI.dll
